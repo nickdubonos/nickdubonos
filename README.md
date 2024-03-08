@@ -7,3 +7,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=PANDAS)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
 ### Socials
+![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&link=t.me%2Fnickdubonos)
